@@ -1045,7 +1045,7 @@ img {
 }
 
 .about-us-button {
-  width: 270px
+  width: 270px;
 }
 
 /*main-contacts*/
@@ -1191,6 +1191,7 @@ img {
 
 .input-border {
   position: relative;
+  height: 57px;
 }
 
 .input-border::after {
@@ -1863,7 +1864,7 @@ img {
 }
 
 .order-modal-window-tooltip-toggle:focus {
-  outline: none
+  outline: none;
 }
 
 .order-modal-window-tooltip-toggle:active .order-modal-window-tooltip-icon {
